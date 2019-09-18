@@ -165,7 +165,7 @@ export default {
     background:darkgrey;
   }
   .bg-purple-none {
-    backgroun:white;
+    background:white;
   }
    .grid-content {
     border-radius: 4px;
