@@ -1,7 +1,7 @@
 <template>
 <div class="buycar">
    <el-row :gutter="50" class="row_1">
-      <el-col :span="2"><div class="grid-content bg-purple-none "></div></el-col>
+      <el-col :span="2"><div class="grid-content bg-purple-none ">张聪</div></el-col>
       <el-col :span="4"><div class="grid-content bg-purple">商品名称</div></el-col>
       <el-col :span="4"><div class="grid-content bg-purple">分类</div></el-col>
       <el-col :span="4"><div class="grid-content bg-purple">价格</div></el-col>
